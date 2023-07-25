@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuradha Saxena</h1>
 <h3 align="center">A passionate Software Engineer developer from India from India</h3>
-<img src="https://i.pinimg.com/736x/f5/b0/45/f5b045627b6c125e500fc02f42d79763.jpg" height="200" width="200">
+<img src="https://i.pinimg.com/736x/f5/b0/45/f5b045627b6c125e500fc02f42d79763.jpg" height="200" width="800">
 - 🌱 I’m currently learning **React.js, Node.js, Flask, PHP, Machine Learning, Python**
 
 - 💬 Ask me about **Html,CSS,Javascript,Java,C++,C.**
