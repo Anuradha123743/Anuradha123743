@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuradha Saxena</h1>
 <h3 align="center">A passionate Software Engineer developer from India from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Anuradha123743/Anuradha123743/assets/109738841/549a4743-b8a5-45bb-a12b-fa8f633a8338)">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - 🌱 I’m currently learning **React.js, Node.js, Flask, PHP, Machine Learning, Python**
 
